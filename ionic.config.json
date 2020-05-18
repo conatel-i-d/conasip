@@ -1,0 +1,7 @@
+{
+  "name": "conasip",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
